@@ -1,0 +1,70 @@
+INFO:root:This is an info message.
+WARNING:root:This is a warning message.
+ERROR:root:This is an error message.
+CRITICAL:root:This is a critical message.
+2024-11-16 13:21:55,216 - INFO - 10 - This is an info message.
+2024-11-16 13:21:55,216 - WARNING - 11 - This is a warning message.
+2024-11-16 13:21:55,217 - ERROR - 12 - This is an error message.
+2024-11-16 13:21:55,217 - CRITICAL - 13 - This is a critical message.
+2024-11-16 13:23:01,682 - INFO - test1 - 10 - This is an info message.
+2024-11-16 13:23:01,682 - WARNING - test1 - 11 - This is a warning message.
+2024-11-16 13:23:01,682 - ERROR - test1 - 12 - This is an error message.
+2024-11-16 13:23:01,682 - CRITICAL - test1 - 13 - This is a critical message.
+2024-11-16 13:23:42,778 - INFO - module test1 - 10 - This is an info message.
+2024-11-16 13:23:42,781 - WARNING - module test1 - 11 - This is a warning message.
+2024-11-16 13:23:42,781 - ERROR - module test1 - 12 - This is an error message.
+2024-11-16 13:23:42,781 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:25:05,107 - INFO       - module test1 - 10 - This is an info message.
+2024-11-16 15:25:05,107 - WARNING    - module test1 - 11 - This is a warning message.
+2024-11-16 15:25:05,107 - ERROR      - module test1 - 12 - This is an error message.
+2024-11-16 15:25:05,107 - CRITICAL   - module test1 - 13 - This is a critical message.
+2024-11-16 15:25:40,723 - INFO    - module test1 - 10 - This is an info message.
+2024-11-16 15:25:40,723 - WARNING - module test1 - 11 - This is a warning message.
+2024-11-16 15:25:40,724 - ERROR   - module test1 - 12 - This is an error message.
+2024-11-16 15:25:40,724 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:26:09,312 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:26:09,312 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:26:09,312 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:26:09,312 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:39:03,118 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:39:03,119 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:39:03,119 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:39:03,119 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:39:03,121 - INFO     - module test1 - 40 - Welcome to cnnClassifier
+2024-11-16 15:39:16,312 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:39:16,312 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:39:16,312 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:39:16,312 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:39:16,312 - INFO     - module test1 - 40 - Welcome to cnnClassifier
+2024-11-16 15:41:32,479 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:41:32,479 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:41:32,479 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:41:32,479 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:41:32,479 - INFO     - module test1 - 40 - Welcome to cnnClassifier
+2024-11-16 15:41:57,564 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:41:57,564 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:41:57,564 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:41:57,564 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:41:57,564 - INFO     - module test1 - 40 - Welcome to cnnClassifier
+2024-11-16 15:42:38,800 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:42:38,800 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:42:38,800 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:42:38,800 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:55:02,364 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:55:02,364 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:55:02,364 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:55:02,364 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:55:13,851 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:55:13,851 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:55:13,851 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:55:13,852 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:55:40,121 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 15:55:40,121 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 15:55:40,121 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 15:55:40,121 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 15:55:40,121 - INFO     - module test1 - 40 - Welcome to cnnClassifier
+2024-11-16 16:02:18,880 - INFO     - module test1 - 10 - This is an info message.
+2024-11-16 16:02:18,880 - WARNING  - module test1 - 11 - This is a warning message.
+2024-11-16 16:02:18,880 - ERROR    - module test1 - 12 - This is an error message.
+2024-11-16 16:02:18,880 - CRITICAL - module test1 - 13 - This is a critical message.
+2024-11-16 16:02:18,880 - INFO     - module test1 - 40 - Welcome to cnnClassifier
